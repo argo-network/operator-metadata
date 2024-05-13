@@ -2,6 +2,6 @@
   "name": "Argo-Openlayer",
   "website": "argonetwork.org",
   "description": "At Argo, we are looking to serve as an activist operator for a handful of AVS ecosystems. Our activist approach means that AVS teams can lean on us as research partners, as they design and stress-test their staking networks. Furthermore, to support our AVS partners, we are building monitoring tools, such as real-time surveillance to assess operator activities and detect deviations from expected behavior. If you are interested in working with us, please refer to the contact information below",
-  "logo": "https://raw.githubusercontent.com/Layr-Labs/eigenlayer-cli/master/pkg/operator/config/logo.png",
+  "logo": "https://raw.githubusercontent.com/argo-network/operator-metadata/main/logo_argo.png",
   "twitter": "https://twitter.com/Argo_XYZ"
 }
